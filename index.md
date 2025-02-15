@@ -2,15 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Logo](thumbnail.png)
 
-[Link to another page](./another-page.html).
+> "He aquí, soy discípulo de Jesucristo, el Hijo de Dios. He sido llamado por él para declarar su palabra entre los de su pueblo, a fin de que alcancen la vida sempiterna."
+(3 Nefi 5:13)
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Mis Mensajes
 
-# Header 1
+- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
+- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
+- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
+- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
+- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
+- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
+
+
+# Herramientas para estudiar las escrituras
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
