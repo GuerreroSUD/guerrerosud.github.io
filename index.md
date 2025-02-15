@@ -8,14 +8,13 @@ layout: default
 (3 Nefi 5:13)
 
 # Herramientas para estudiar las escrituras
-|HERRAMIENTA|DESCRIPCIÓN|LINK|
-|---|---|---|
-|Biblioteca del Evangelio|Las escrituras, conferencias, manuales, etc.|[Web](https://www.churchofjesuschrist.org/study?lang=spa) / [Android](https://play.google.com/store/apps/details?id=org.lds.ldssa&hl=es) / [Apple](https://apps.apple.com/es/app/biblioteca-del-evangelio/id598329798?ls=1)|
-|Dominio de la Doctrina|Aplicación movil para estudiar los pasajes de Dominio de la Doctrina de Seminario.|[Android](https://play.google.com/store/apps/details?id=org.lds.sm&hl=es) / [Apple](https://apps.apple.com/es/app/dominio-de-la-doctrina/id413341700)|
-|Índice de Citas de las Escrituras| Puedes buscar una escritura y ver todos los mensajes de la conferencia general donde ha sido mencionada.| [Web](https://escrituras.byu.edu/) / [Android](https://play.google.com/store/apps/details?id=edu.byu.scriptures)|
-|WordCruncher|Esta es un software muy poderoso que permite busquedas avanzadas en las escrituras, discursos de la conferencias y la colección de libros de Enseñanzas de los Profetas.|[Windows y Apple](https://wordcruncher.com/install#)|
-|LDS View|Versión simplificada de WordCruncher que solo incluye las escrituras.|[Windows](https://ldsview.wordcruncher.com/install)|
-
+| HERRAMIENTA | DESCRIPCIÓN | LINK |
+| --- | --- | --- |
+| Biblioteca del Evangelio | Las escrituras, conferencias, manuales, etc. | [Web](https://www.churchofjesuschrist.org/study?lang=spa) / [Android](https://play.google.com/store/apps/details?id=org.lds.ldssa&hl=es) / [Apple](https://apps.apple.com/es/app/biblioteca-del-evangelio/id598329798?ls=1) |
+| Dominio de la Doctrina | Aplicación movil para estudiar los pasajes de Dominio de la Doctrina de Seminario. | [Android](https://play.google.com/store/apps/details?id=org.lds.sm&hl=es) / [Apple](https://apps.apple.com/es/app/dominio-de-la-doctrina/id413341700) |
+| Índice de Citas de las Escrituras | Puedes buscar una escritura y ver todos los mensajes de la conferencia general donde ha sido mencionada. | [Web](https://escrituras.byu.edu/) / [Android](https://play.google.com/store/apps/details?id=edu.byu.scriptures) |
+| WordCruncher | Esta es un software muy poderoso que permite busquedas avanzadas en las escrituras, discursos de la conferencias y la colección de libros de Enseñanzas de los Profetas. | [Windows y Apple](https://wordcruncher.com/install#) |
+| LDS View | Versión simplificada de WordCruncher que solo incluye las escrituras. | [Windows](https://ldsview.wordcruncher.com/install) |
 
 
 # Mis Mensajes
