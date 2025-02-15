@@ -2,130 +2,25 @@
 layout: default
 ---
 
-![Logo](thumbnail.png)
+![Logo](thumbnail.png){: .center-img }
 
 > "He aquí, soy discípulo de Jesucristo, el Hijo de Dios. He sido llamado por él para declarar su palabra entre los de su pueblo, a fin de que alcancen la vida sempiterna."
 (3 Nefi 5:13)
 
+# Herramientas para estudiar las escrituras
+|HERRAMIENTA|DESCRIPCIÓN|LINK|
+|---|---|---|
+|Biblioteca del Evangelio|Las escrituras, conferencias, manuales, etc.|[Web](https://www.churchofjesuschrist.org/study?lang=spa) / [Android](https://play.google.com/store/apps/details?id=org.lds.ldssa&hl=es) / [Apple](https://apps.apple.com/es/app/biblioteca-del-evangelio/id598329798?ls=1)|
+|Dominio de la Doctrina|Aplicación movil para estudiar los pasajes de Dominio de la Doctrina de Seminario.|[Android](https://play.google.com/store/apps/details?id=org.lds.sm&hl=es) / [Apple](https://apps.apple.com/es/app/dominio-de-la-doctrina/id413341700)|
+|Índice de Citas de las Escrituras| Puedes buscar una escritura y ver todos los mensajes de la conferencia general donde ha sido mencionada.| [Web](https://escrituras.byu.edu/) / [Android](https://play.google.com/store/apps/details?id=edu.byu.scriptures)|
+|WordCruncher|Esta es un software muy poderoso que permite busquedas avanzadas en las escrituras, discursos de la conferencias y la colección de libros de Enseñanzas de los Profetas.|[Windows y Apple](https://wordcruncher.com/install#)|
+|LDS View|Versión simplificada de WordCruncher que solo incluye las escrituras.|[Windows](https://ldsview.wordcruncher.com/install)|
+
+
 
 # Mis Mensajes
 
-- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
-- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
-- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
-- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
-- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
-- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd)
+- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd) *2017-12-03*
+- [El Bautismo](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/6c68d516-53d9-4c94-9e1b-dba35e6aff4b) *2017-06-24*
+- [Jesucristo El Eterno](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/5585111a-891d-4d5a-88b8-b6ab5a67faec) *2008-11-21*
 
-
-# Herramientas para estudiar las escrituras
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
