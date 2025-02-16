@@ -1,17 +1,8 @@
 ---
 layout: default
-title: Herramientas
-description: Herramientas útiles para el estudio de las escrituras
+title: Guerrero SUD
+description: En Defensa de la Verdad
 ---
-
-# Herramientas útiles para el estudio de las escrituras
-
-| HERRAMIENTA | DESCRIPCIÓN | LINK'S |
-|:-------------|:------------------|:------|
-| Biblioteca del Evangelio | Las escrituras, conferencias, manuales, etc. | nice  |
-| Dominio de la Doctrina | App movil para estudiar los pasajes de Dominio de la Doctrina de Seminario. | nice  |
-| Índice de Citas de las Escrituras | Permite buscar un pasaje de las escrituras y ver todos los mensajes de la conferencia general donde ha sido mencionada. | hmm   |
-| WordCruncher | Poderoso software que permite busquedas avanzadas en las escrituras, discursos de la conferencias y la colección de libros de Enseñanzas de los Profetas. | yumm  |
 
 ## Herramientas útiles para el estudio de las escrituras
 
@@ -24,4 +15,4 @@ description: Herramientas útiles para el estudio de las escrituras
 
 ---
 
-[back](./)
+[Volver](./){: .boton}
