@@ -8,11 +8,16 @@ layout: default
 (3 Nefi 5:13)
 
 
-# Mis Mensajes
+## ¿La Iglesia de Jesucristo es perfecta?
+*2017-12-03* [Leer...](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd){: .boton}
 
-- [¿La Iglesia de Jesucristo es perfecta?](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/dd05c2cc-d460-4392-a995-bac12c1c16dd) *2017-12-03*
+---
 
-- [El Bautismo](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/6c68d516-53d9-4c94-9e1b-dba35e6aff4b) *2017-06-24*
+## El Bautismo
+*2017-06-24* [Leer...](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/6c68d516-53d9-4c94-9e1b-dba35e6aff4b) 
 
-- [Jesucristo El Eterno](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/5585111a-891d-4d5a-88b8-b6ab5a67faec) *2008-11-21*
+---
+
+## Jesucristo El Eterno
+ *2008-11-21* [Leer..](https://getupnote.com/share/notes/V9blG8NdJzNSb4CtOnYQb8L2yxr2/5585111a-891d-4d5a-88b8-b6ab5a67faec)
 
